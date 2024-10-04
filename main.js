@@ -1,4 +1,5 @@
-const prompt = require('prompt-sync')(); // Import prompt-sync
+// Import prompt-sync
+const prompt = require('prompt-sync')();
 
 // Function to get the computer's random choice
 function randomChoice() {

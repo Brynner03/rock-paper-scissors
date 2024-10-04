@@ -1,0 +1,15 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "A simple Rock Paper Scissors game implemented in JavaScript. Play against the computer and keep track of your score across multiple rounds.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
