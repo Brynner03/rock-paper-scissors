@@ -25,6 +25,7 @@ function winner(userChoice, computerChoice) {
     }
 }
 
+// Function to run the game
 function play() {
     let userScore = 0;
     let computerScore = 0;
@@ -65,4 +66,5 @@ function play() {
     }
 }
 
+// Including this at the bottom, will automatically run the game when the code is ran
 play();
